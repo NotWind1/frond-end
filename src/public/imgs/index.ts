@@ -1,0 +1,10 @@
+const grop = require('./grop.png')
+const group = require('./group.png')
+const maskGroup = require('./maskGroup.png')
+const maskGroup2 = require('./maskGroup2.png')
+const enjoy = require('./enjoy.png')
+const off = require('./off.png')
+const group2 = require('./group2.png')
+const img = require('./img.png')
+const background = require('./background.png')
+export {grop,group,maskGroup,maskGroup2,enjoy,off,group2,img,background}
